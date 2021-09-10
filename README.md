@@ -5,4 +5,4 @@
 
 > When the user **opens** a **question** it will **close** the **previously** opened **question**.
 
-![](js%20questions%20project.png)
+![](demo/projectDemo.png)
