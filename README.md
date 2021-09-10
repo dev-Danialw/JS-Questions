@@ -7,4 +7,4 @@ If the user wants to see the answers, he/she has to **click** on the **button** 
 
 When the user **opens** a **question** it will **close** the **previously** opened **question**.
 
-![](jsquestionsproject.png)
+![](js%20questions%20project.png)
